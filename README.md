@@ -12,7 +12,7 @@
 
 📊 My experience with integrating REST APIs for data transfer tasks showcases my proficiency in data management and analysis.
 
-📧 You can reach me at [your.email@example.com](mailto:meet.bhatt@etu.unice.fr)
+📧 You can reach me at (mailto:meet.bhatt@etu.unice.fr)
 
 ⚡ Fun fact: I'm passionate about Chess and sports in my spare time.
 
