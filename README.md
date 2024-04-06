@@ -17,16 +17,23 @@
 ⚡ Fun fact: I'm passionate about Chess and sports in my spare time.
 
 Tech Stack
+
 Languages:
-🚀 ![Java](https://img.shields.io/badge/square-java-%23F7931E.svg?style=for-the-badge&logo=java&logoColor=white) 🐍 ![Python](https://img.shields.io/badge/square-python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 🐚 ![Shell Script](https://img.shields.io/badge/square-shell%20script-%232C3A42.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+🚀 ![Java](https://img.shields.io/badge/square-java-%23F7931E.svg?style=for-the-badge&logo=java&logoColor=white) 🐍 ![Python](https://img.shields.io/badge/square-python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 🐚 ![Shell Script](https://img.shields.io/badge/square-shell%20script-%232C3A42.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 
 Database:
+
 🛢️ ![MySQL](https://img.shields.io/badge/square-mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 🛢️ ![PostgreSQL](https://img.shields.io/badge/square-postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 Tools and Technologies :
+
 🐧 ![Linux](https://img.shields.io/badge/square-linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 🔗 ![Git](https://img.shields.io/badge/square-git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
 IDEs :
-🐍 ![PyCharm](https://img.shields.io/badge/square-pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 🟦 ![Visual Studio Code](https://img.shields.io/badge/square-visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+🐍 ![PyCharm](https://img.shields.io/badge/square-pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 🟦 ![Visual Studio Code](https://img.shields.io/badge/square-visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 📊 ![RStudio](https://img.shields.io/badge/square-rstudio-%2343B02A.svg?style=for-the-badge&logo=rstudio&logoColor=white)
+
