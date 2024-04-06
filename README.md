@@ -23,6 +23,11 @@ Languages:
 🚀 ![Java](https://img.shields.io/badge/square-java-%23F7931E.svg?style=for-the-badge&logo=java&logoColor=white) 🐍 ![Python](https://img.shields.io/badge/square-python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 🐚 ![Shell Script](https://img.shields.io/badge/square-shell%20script-%232C3A42.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 
+ML/DL:
+
+🔢 ![NumPy](https://img.shields.io/badge/square-numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 🐼 ![Pandas](https://img.shields.io/badge/square-pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 📊 ![Plotly](https://img.shields.io/badge/square-plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+
 Database:
 
 🛢️ ![MySQL](https://img.shields.io/badge/square-mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 🛢️ ![PostgreSQL](https://img.shields.io/badge/square-postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
