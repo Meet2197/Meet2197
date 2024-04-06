@@ -16,3 +16,15 @@
 
 ⚡ Fun fact: I'm passionate about Chess and sports in my spare time.
 
+Tech Stack
+Languages:
+Java  Python  Shell  Markdown
+
+Database:
+MySQL  PostgreSQL 
+
+Tools and Technologies :
+Linux  Git 
+
+IDEs :
+PyCharm  Visual Studio Code  R Studio 
