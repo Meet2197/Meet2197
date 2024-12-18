@@ -1,4 +1,4 @@
-👋 Hi, I'm @Meet2197, a PhD student at RWTH Aachen University, focusing on data analysis to aid developers and researchers in better understanding data.
+👋 Hi, I'm @Meet2197, Bioinformatiker at RWTH Aachen University, focusing on data analysis to aid developers and researchers in better understanding data.
 
 🌱 I'm currently working on a project using statistics and mathematical modeling to study patients with liver disease, aligning well with the requirements of the position at Charité.
 
