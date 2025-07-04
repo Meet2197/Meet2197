@@ -1,4 +1,4 @@
-👋 Hi, I'm @Meet2197, Bioinformatiker at RWTH Aachen University, focusing on data analysis to aid developers and researchers in better understanding data.
+👋 Hi, I'm @Meet2197, Data Steward at PoL EXC, focusing on data management to aid developers and researchers in better understanding data.
 
 🌱 I'm currently working on a project using statistics and mathematical modeling to study patients with liver disease, aligning well with the requirements of the position at Charité.
 
@@ -13,8 +13,6 @@
 📊 My experience with integrating REST APIs for data transfer tasks showcases my proficiency in data management and analysis.
 
 📧 You can reach me at (mailto:meet.bhatt@etu.unice.fr)
-
-⚡ Fun fact: I'm passionate about Chess and sports in my spare time.
 
 Tech Stack
 
