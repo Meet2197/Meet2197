@@ -1,7 +1,5 @@
 👋 Hi, I'm @Meet2197, Data Steward at PoL EXC, focusing on data management to aid developers and researchers in better understanding data.
 
-🌱 I'm currently working on a project using statistics and mathematical modeling to study patients with liver disease, aligning well with the requirements of the position at Charité.
-
 💼 During my tenure at UMM Mannheim, I honed my skills in data analysis using Tableau, Python, Django, and R Studio Bioconductor formats. Additionally, I'm proficient in statistical software such as SPSS and SAS, complementing my ability to effectively manage data.
 
 💻 My familiarity with Linux systems, Git for version control, and Key Cloak for user management further strengthens my qualifications for roles in data management and analysis.
