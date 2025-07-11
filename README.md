@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Meet2197
+# 👋 Hi, I'm Meet Bhatt
 
 ## Data Steward | Bioinformatician | Data Engineer
 
