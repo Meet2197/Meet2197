@@ -1,18 +1,66 @@
-👋 Hi, I'm @Meet2197, Data Steward at PoL EXC, focusing on data management to aid developers and researchers in better understanding data.
+# 👋 Hi, I'm @Meet2197
 
-💼 During my tenure at UMM Mannheim, I honed my skills in data analysis using Tableau, Python, Django, and R Studio Bioconductor formats. Additionally, I'm proficient in statistical software such as SPSS and SAS, complementing my ability to effectively manage data.
+## Data Steward | Bioinformatician | Data Engineer
 
-💻 My familiarity with Linux systems, Git for version control, and Key Cloak for user management further strengthens my qualifications for roles in data management and analysis.
+Currently serving as **Data Steward at PoL EXC, TU Dresden**, where I specialize in research data management, electronic lab journals (eLabFTW), and LIMS systems to support excellence cluster operations.
 
-🎓 With a background in quality management practices and research work involved in biobanking from an internship at the Central Biobank Regensburg, coupled with extensive data analysis techniques from my master's thesis at the Helmholtz Center Munich, I bring a comprehensive understanding of biobanking to the table.
+## 🔬 Current Role & Expertise
+- **Data Management Solutions**: Implementing eLabFTW training programs and data management guidelines for research groups
+- **LIMS Administration**: Supporting laboratory information management systems for large-scale research operations
+- **Committee Collaboration**: Working with IT, administrative, and faculty committees to streamline research workflows
 
-🤝 My expertise lies in organizing and structuring work efficiently, coordinating between different parties, and implementing seamless workflows, facilitating collaboration within various research groups.
+## 💻 Technical Background
 
-📊 My experience with integrating REST APIs for data transfer tasks showcases my proficiency in data management and analysis.
+### Bioinformatics & Machine Learning
+- **Survival Analysis**: Score-matching analyses for time-dependent exposures using UK Biobank and clinical datasets
+- **Medical Imaging**: Developed n-gram algorithms for MRI fat quantification and CNN/SVM implementations for MRI data classification
+- **Omics Analysis**: Applied Word2vec algorithms to untargeted metabolomics data for phenotype observation
+- **Image Processing**: Semantic segmentation using U-Net and CNN models for microscopic image analysis
 
-📧 You can reach me at (mailto:meet.bhatt@etu.unice.fr)
+### Data Engineering
+- **Big Data Platforms**: Built scalable data transfer platforms using Apache Spark and Apache Kafka
+- **Cloud Computing**: Experience with GCP & AWS for parallel programming in HPC environments
+- **FAIR Data Principles**: Implemented metadata standards for HL7-based electronic health records
+- **ETL Pipelines**: Custom data transfer solutions integrated with SAS Viya research infrastructure
 
-Tech Stack
+## 🛠️ Tech Stack
+**Programming**: Python, R, Java  
+**ML/AI**: PyTorch, TensorFlow, Scikit-Learn, OpenCV  
+**Data**: NumPy, Pandas, SQL (MySQL, PostgreSQL), Apache Spark, Apache Kafka  
+**Bioinformatics**: BLAST, PyMOL, NGS analysis, Sanger sequencing  
+**Tools**: Docker, Git, Notion, Confluence, Jira, Figma  
+**Systems**: Linux, Windows Server administration
+
+## 🎓 Education
+- **M.Sc. Biobanking and Complex Data Management** - Université Côte d'Azur, Nice (2019-2021)
+- **B.Sc. Biotechnology** - Rai University, Ahmedabad (2014-2018)
+
+## 📊 Research Experience
+- **Helmholtz Center Munich**: DZIF data quality assessment and clinical data visualization
+- **University Hospital Mannheim**: Cancer patient survival data analysis and research infrastructure development
+- **Institute of Pathology, Regensburg**: Biobank accreditation and NGS data analysis for genetic research
+
+## 📝 Publications
+- "Interim Storage of Biospecimens in Satellite Collection Sites" - *Biopreservation and Biobanking* (2022)
+- "Biobanking Specimens from COVID-19 Patients: An Economic Perspective" - *Biopreservation and Biobanking* (2021)
+
+## 🌍 Languages
+- **English**: Native/Bilingual
+- **German**: Intermediate
+- **French**: Intermediate
+
+## 🎯 Specializations
+- Research Data Management & FAIR Data Principles
+- Biobanking & Sample Quality Management
+- Clinical Data Analysis & Survival Statistics
+- Machine Learning in Healthcare & Bioinformatics
+- Laboratory Information Management Systems (LIMS)
+
+## 📧 Contact
+- **Email**: meet.bhatt@etu.unice.fr
+- **LinkedIn**: [linkedin.com/meetbhatt](https://www.linkedin.com/meetbhatt)
+- **GitHub**: [github.com/Meet2197](https://github.com/Meet2197)
+- **Website**: [Meet2197.github.io](https://Meet2197.github.io)
 
 Languages:
 
