@@ -44,11 +44,6 @@ Currently serving as **Data Steward at PoL EXC, TU Dresden**, where I specialize
 - "Interim Storage of Biospecimens in Satellite Collection Sites" - *Biopreservation and Biobanking* (2022)
 - "Biobanking Specimens from COVID-19 Patients: An Economic Perspective" - *Biopreservation and Biobanking* (2021)
 
-## 🌍 Languages
-- **English**: Native/Bilingual
-- **German**: Intermediate
-- **French**: Intermediate
-
 ## 🎯 Specializations
 - Research Data Management & FAIR Data Principles
 - Biobanking & Sample Quality Management
@@ -59,7 +54,6 @@ Currently serving as **Data Steward at PoL EXC, TU Dresden**, where I specialize
 ## 📧 Contact
 - **Email**: meet.bhatt@etu.unice.fr
 - **LinkedIn**: [linkedin.com/meetbhatt](https://www.linkedin.com/meetbhatt)
-- **GitHub**: [github.com/Meet2197](https://github.com/Meet2197)
 - **Website**: [Meet2197.github.io](https://Meet2197.github.io)
 
 Languages:
