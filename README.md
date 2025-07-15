@@ -86,7 +86,3 @@ IDEs :
 
 🐍 ![PyCharm](https://img.shields.io/badge/square-pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 🟦 ![Visual Studio Code](https://img.shields.io/badge/square-visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 📊 ![RStudio](https://img.shields.io/badge/square-rstudio-%2343B02A.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meet2197&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet2197&layout=compact&theme=github_dark)
