@@ -70,6 +70,21 @@ Database:
 
 🛢️ ![MySQL](https://img.shields.io/badge/square-mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 🛢️ ![PostgreSQL](https://img.shields.io/badge/square-postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+## 🐍 GitHub Contribution Snake
+
+**Light mode:**
+
+![GitHub Snake](https://github.com/Meet2197/Meet2197/blob/output/github-contribution-grid-snake.svg)
+
+**Dark mode:**
+
+![GitHub Snake dark](https://github.com/Meet2197/Meet2197/blob/output/github-contribution-grid-snake-dark.svg)
+
+> Powered by [Platane/snk](https://github.com/Platane/snk)
+
+---
 
 Tools and Technologies :
 
@@ -80,5 +95,17 @@ IDEs :
 
 🐍 ![PyCharm](https://img.shields.io/badge/square-pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 🟦 ![Visual Studio Code](https://img.shields.io/badge/square-visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 📊 ![RStudio](https://img.shields.io/badge/square-rstudio-%2343B02A.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 
-![GitHub Snake](https://github.com/Meet2197/Meet2197/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meet2197&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet2197&layout=compact&theme=github_dark)
+
+🔗 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=Meet2197&style=flat-square)
+
+📣 Followers Badge
+
+![GitHub followers](https://img.shields.io/github/followers/Meet2197?label=Follow&style=social)
+
 
