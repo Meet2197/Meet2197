@@ -71,16 +71,11 @@ Database:
 🛢️ ![MySQL](https://img.shields.io/badge/square-mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 🛢️ ![PostgreSQL](https://img.shields.io/badge/square-postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
 ## 🐍 GitHub Contribution Snake
 
-**Light mode:**
-
-![GitHub Snake](https://github.com/Meet2197/Meet2197/blob/output/github-contribution-grid-snake.svg)
-
-**Dark mode:**
-
-![GitHub Snake dark](https://github.com/Meet2197/Meet2197/blob/output/github-contribution-grid-snake-dark.svg)
+| Light Mode | Dark Mode |
+|:---------:|:---------:|
+| <img align="center" src="https://raw.githubusercontent.com/Meet2197/Meet2197/output/github-contribution-grid-snake.svg" width="600"/> | <img align="center" src="https://raw.githubusercontent.com/Meet2197/Meet2197/output/github-contribution-grid-snake-dark.svg" width="600"/> |
 
 > Powered by [Platane/snk](https://github.com/Platane/snk)
 
