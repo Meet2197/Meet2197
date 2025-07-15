@@ -75,9 +75,6 @@ Database:
 
 <img src="https://raw.githubusercontent.com/Meet2197/Meet2197/output/github-contribution-grid-snake.svg" width="600" />
 
-
-> Powered by [Platane/snk](https://github.com/Platane/snk)
-
 ---
 
 Tools and Technologies :
