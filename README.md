@@ -73,9 +73,8 @@ Database:
 ---
 ## 🐍 GitHub Contribution Snake
 
-| Light Mode | Dark Mode |
-|:---------:|:---------:|
-| <img align="center" src="https://raw.githubusercontent.com/Meet2197/Meet2197/output/github-contribution-grid-snake.svg" width="600"/> | <img align="center" src="https://raw.githubusercontent.com/Meet2197/Meet2197/output/github-contribution-grid-snake-dark.svg" width="600"/> |
+<img src="https://raw.githubusercontent.com/Meet2197/Meet2197/output/github-contribution-grid-snake.svg" width="600" />
+
 
 > Powered by [Platane/snk](https://github.com/Platane/snk)
 
