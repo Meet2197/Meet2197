@@ -90,13 +90,3 @@ IDEs :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meet2197&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet2197&layout=compact&theme=github_dark)
-
-🔗 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=Meet2197&style=flat-square)
-
-📣 Followers Badge
-
-![GitHub followers](https://img.shields.io/github/followers/Meet2197?label=Follow&style=social)
-
-
