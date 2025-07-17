@@ -35,7 +35,7 @@ Currently serving as **Data Steward at PoL EXC, TU Dresden**, where I specialize
 - **M.Sc. Biobanking and Complex Data Management** - Université Côte d'Azur, Nice (2019-2021)
 - **B.Sc. Biotechnology** - Rai University, Ahmedabad (2014-2018)
 
-## 📊 Research Experience
+## 📊 Research Experience : 
 - **Helmholtz Center Munich**: DZIF data quality assessment and clinical data visualization
 - **University Hospital Mannheim**: Cancer patient survival data analysis and research infrastructure development
 - **Institute of Pathology, Regensburg**: Biobank accreditation and NGS data analysis for genetic research
@@ -77,7 +77,7 @@ Tools and Technologies :
 
 IDEs :
 
-🐍 ![PyCharm](https://img.shields.io/badge/square-pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 🟦 ![Visual Studio Code](https://img.shields.io/badge/square-visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 📊 ![RStudio (https://img.shields.io/badge/square-rstudio-%2343B02A.svg?style=for-the-badge&logo=rstudio&logoColor=white)
+🐍 ![PyCharm](https://img.shields.io/badge/square-pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 🟦 ![Visual Studio Code](https://img.shields.io/badge/square-visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 📊 ![RStudio] (https://img.shields.io/badge/square-rstudio-%2343B02A.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
 ## 🐍 GitHub Contribution : 
