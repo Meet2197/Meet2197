@@ -79,9 +79,3 @@ IDEs :
 
 🐍 ![PyCharm](https://img.shields.io/badge/square-pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) 🟦 ![Visual Studio Code](https://img.shields.io/badge/square-visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 📊 ![RStudio](https://img.shields.io/badge/square-rstudio-%2343B02A.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 
----
-## 🐍 GitHub Contribution : 
-
-<img src="https://raw.githubusercontent.com/Meet2197/Meet2197/output/github-contribution-grid-snake.svg" width="600" />
-
----
